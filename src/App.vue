@@ -3,7 +3,7 @@
     <h1>Belajar Components, Props, Emits, dan Slots</h1>
 
     <MyButton 
-      buttonText="Klik Aku!" 
+      buttonText="Klik disini!" 
       @customClick="handleClick"
     >
       <template #default>
